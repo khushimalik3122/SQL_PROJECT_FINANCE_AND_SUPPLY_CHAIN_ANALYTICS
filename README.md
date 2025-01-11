@@ -11,24 +11,24 @@
 •	This project is designed to analyze and extract valuable insights from the provided database. The database contains information about sales, products, customers, and regions for Atliq Hardware.  I aim to address specific questions related to sales reports, market analysis, customer behavior, and supply chain forecasting.
 
 # AtliQ Hardwares-Business Model 
-
-![image](https://github.com/user-attachments/assets/0b949b95-7856-4d64-ac90-eb41c2794a92)
-
-![image](https://github.com/user-attachments/assets/9ac82f4a-3c6e-47fb-8aa1-16a0b77e8895)
-
-![image](https://github.com/user-attachments/assets/f108a314-e982-442c-824c-0a69971af53b)
-
-![image](https://github.com/user-attachments/assets/a5090226-536a-4ce4-8003-5843c1cbf5b7)
+![image](https://github.com/user-attachments/assets/039d21bb-f328-4bc5-9fde-52eb233de462)
+![image](https://github.com/user-attachments/assets/dff474df-9249-491a-be73-5b78fb7297db)
+![image](https://github.com/user-attachments/assets/91ed30d3-eb5e-4d5f-a731-525b791062d5)
+![image](https://github.com/user-attachments/assets/472f71d1-13b9-49dc-ba20-b142da63bf34)
+![image](https://github.com/user-attachments/assets/3b33ec27-a76c-444c-a5b5-7fe86a3db594)
 
 
 # GROSS SALES REPORT: MONTHLY PRODUCT TRANSACTIONS
 
-![image](https://github.com/user-attachments/assets/c002ff78-b490-4442-ac3b-c223363734a2)
+![image](https://github.com/user-attachments/assets/e5af8224-2033-4547-8b17-6bd89af896f0)
+
 
 # GROSS SALES REPORT: TOTAL SALES AMOUNT
-![image](https://github.com/user-attachments/assets/e532d88c-0172-46a9-a83e-f84226b547d0)
+![image](https://github.com/user-attachments/assets/a8949e96-33eb-494d-b88f-4cf8fbe4ad6d)
+
 
 # Generate a yearly report for Croma India where there are two columns
 	# 1. Fiscal Year
 	# 2. Total Gross Sales amount In that year from Croma
-![image](https://github.com/user-attachments/assets/84bf6667-0fc5-44a7-ad32-094d57136878)
+![image](https://github.com/user-attachments/assets/8821a0d0-0987-4c50-bf1a-beb013c8b81a)
+
