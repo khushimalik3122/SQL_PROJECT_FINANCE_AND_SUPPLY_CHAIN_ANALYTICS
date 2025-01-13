@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/3b33ec27-a76c-444c-a5b5-7fe86a3db594)
 
 
-# GROSS SALES REPORT: MONTHLY PRODUCT TRANSACTIONS
+# Gross Monthly Total Sales Report For Croma
 
 ![image](https://github.com/user-attachments/assets/e5af8224-2033-4547-8b17-6bd89af896f0)
 
@@ -31,4 +31,11 @@
 	# 1. Fiscal Year
 	# 2. Total Gross Sales amount In that year from Croma
 ![image](https://github.com/user-attachments/assets/8821a0d0-0987-4c50-bf1a-beb013c8b81a)
+
+
+# Croma India Product Wise Sales Report for Fiscal Year -2021
+![image](https://github.com/user-attachments/assets/baf6a750-412e-4367-adb0-1cc8a4eeb145)
+![image](https://github.com/user-attachments/assets/9c94f792-cb4c-47b6-84ff-fb03436a7f11)
+
+![image](https://github.com/user-attachments/assets/44d98375-9d23-4ba7-a18c-880448a2b7fd)
 
