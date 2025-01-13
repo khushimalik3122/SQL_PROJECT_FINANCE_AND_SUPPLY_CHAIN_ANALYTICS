@@ -35,7 +35,6 @@
 
 # Croma India Product Wise Sales Report for Fiscal Year -2021
 ![image](https://github.com/user-attachments/assets/baf6a750-412e-4367-adb0-1cc8a4eeb145)
-![image](https://github.com/user-attachments/assets/9c94f792-cb4c-47b6-84ff-fb03436a7f11)
 
 ![image](https://github.com/user-attachments/assets/44d98375-9d23-4ba7-a18c-880448a2b7fd)
 
