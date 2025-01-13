@@ -19,9 +19,8 @@
 
 
 # Gross Monthly Total Sales Report For Croma
-
-![image](https://github.com/user-attachments/assets/e5af8224-2033-4547-8b17-6bd89af896f0)
-
+![image](https://github.com/user-attachments/assets/ad868322-6d1f-4738-87a4-bafdffd58f79)
+![image](https://github.com/user-attachments/assets/89d0c00c-d5f2-406a-afa9-7b48058a9064)
 
 # GROSS SALES REPORT: TOTAL SALES AMOUNT
 ![image](https://github.com/user-attachments/assets/a8949e96-33eb-494d-b88f-4cf8fbe4ad6d)
@@ -37,4 +36,6 @@
 ![image](https://github.com/user-attachments/assets/baf6a750-412e-4367-adb0-1cc8a4eeb145)
 
 ![image](https://github.com/user-attachments/assets/44d98375-9d23-4ba7-a18c-880448a2b7fd)
+
+#
 
