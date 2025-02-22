@@ -44,6 +44,24 @@
 ![image](https://github.com/user-attachments/assets/4beef9ce-0181-49e1-8675-ad6ddefc761c)
 ![image](https://github.com/user-attachments/assets/5f944c3f-904a-4cdd-b981-13e49311c222)
 
+# Net Sales % shared by Customers
+![image](https://github.com/user-attachments/assets/1b318e07-40d9-41c2-a6e9-660392670596)
+![image](https://github.com/user-attachments/assets/972505b6-3185-451d-8cb5-11a98108a958)
+
+
+# Net Sales % shared by Region -"APAC"
+![image](https://github.com/user-attachments/assets/83d7783c-debe-40cd-b68c-caa4eab49255)
+![image](https://github.com/user-attachments/assets/65509583-ee09-45ad-8136-0dd494cc6b92)
+
+# Top 2 Markets in Every Region by their Gross Sales Amount 
+![image](https://github.com/user-attachments/assets/53971fc7-8c81-4a18-b2fa-0db0702e30df)
+![image](https://github.com/user-attachments/assets/51441779-aa89-4a02-8218-107ae42f3f45)
+
+# Supply Chain – Forecast Quantity  
+![image](https://github.com/user-attachments/assets/62e5df36-fa34-48f7-9e37-9437b70c77c4)
+![image](https://github.com/user-attachments/assets/751173c1-7a00-449d-878a-f084a69c3ca1)
+
+
 
 
 
