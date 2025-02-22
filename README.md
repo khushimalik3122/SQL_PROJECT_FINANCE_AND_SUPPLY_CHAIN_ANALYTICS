@@ -61,7 +61,16 @@
 ![image](https://github.com/user-attachments/assets/62e5df36-fa34-48f7-9e37-9437b70c77c4)
 ![image](https://github.com/user-attachments/assets/751173c1-7a00-449d-878a-f084a69c3ca1)
 
-
+# Conclusion
+ Net sales of Amazon is highest with 109.03M in fiscal year 2021 followed by AtliQ 
+Exclusive with 79.92M
+ Market in India generated maximum net sales with 210.67M in fiscal year 2021 
+followed by USA with 132.05M
+ Amazon generated 13.23% of total net sales among all customers in fiscal year 
+2021
+ In APAC region, Amazon contributed maximum net sales % of 12.99 % among 
+rest customers in 2021.
+ In APAC, region India ranks 1 in terms of total gross sales.
 
 
 
